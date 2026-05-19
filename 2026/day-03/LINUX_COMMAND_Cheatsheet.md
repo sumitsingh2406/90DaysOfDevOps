@@ -2,8 +2,7 @@
 
 #Basic commands in linux
 
-#1 
-mkdir folder_name = to create folder in the director.
+#1 mkdir folder_name = to create folder in the director.
 #2 
 cd = to change directory.
 #3 
