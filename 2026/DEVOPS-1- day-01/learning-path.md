@@ -5,7 +5,7 @@ I am currently a beginner in DevOps and Cloud Engineering with basic understandi
 
 ---
 
-# My Understanding of DevOps & Cloud Engineering
+## My Understanding of DevOps & Cloud Engineering
 
 DevOps is the practice of combining development and operations to build, test, deploy, and manage applications faster and more reliably using automation, collaboration, and monitoring.
 
